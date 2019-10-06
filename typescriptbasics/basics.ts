@@ -18,7 +18,7 @@ for(let i=0;i<5;i++ )
     setTimeout(function() { console.log(i); }, 100 * i);
 }
 
- // tsc basics.js
- // node basics.js
+ // tsc basics.ts  converting typescript file to js file
+ // node basics.js executing js file
 
 
